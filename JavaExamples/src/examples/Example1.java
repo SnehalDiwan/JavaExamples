@@ -10,6 +10,7 @@ public class Example1 {
 		// TODO Auto-generated method stub
 			System.out.println("Example1");
 			System.out.println(sum(4,3));
+			System.out.println(sum(144,3));
 	}
 
 }
