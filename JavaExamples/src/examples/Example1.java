@@ -11,6 +11,7 @@ public class Example1 {
 			System.out.println("Example1");
 			System.out.println(sum(4,3));
 			System.out.println(sum(144,3));
+			System.out.println(sum(4,9));
 	}
 
 }
